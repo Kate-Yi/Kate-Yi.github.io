@@ -1,0 +1,38 @@
+body {
+
+  background-color: Khaki;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.columni{
+
+    float: left;
+
+    width:10%;
+
+    padding: 1px;
+
+    height: 160px;
+
+}
+
+.column {
+
+    float: left;
+
+    width: 60%;
+
+    padding: 1px;
+
+    height: 160px; 
+
+}
+
+.empty{
+
+  width: 30%;
+
+  height: 160px;
+
+}
