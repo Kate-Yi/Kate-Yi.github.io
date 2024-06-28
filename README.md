@@ -1,2 +1,1 @@
-#Animal Website
-Basic website created when first learning HTML and CSS
+Basic website on animals created when first learning HTML and CSS
